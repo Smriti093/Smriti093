@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Smriti093
+- 👋 Hi, I’m Smriti Jha
 - 👀 I’m interested in doing projects based on Web Development.
 - 🌱 I’m currently learning front end and backend  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach
+-📫 How to reach jhasmriti995@gmail.com
 - 
 
 <!---
