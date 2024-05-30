@@ -4,3 +4,8 @@ I preferred to learn data structures in Java language, for me java is quite easy
 Recently I learned about R programming that focus on analysing the data in statistical form and graphical representation that calculates the data smoothly and correctly.
 
 
+
+
+
+![html](https://github.com/Smriti093/Smriti093/assets/132837062/a8705d1a-711a-4e12-adce-8e04f646923f)
+
