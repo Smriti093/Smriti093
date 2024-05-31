@@ -1,10 +1,28 @@
-Hello there! I am  Smriti Jha, pursuing Betch Computer Science Enginnering from Vellore Institute of Technology(BHOPAL).
-I love to do tech projects that is based upon WEB DEVELOPMENT , recently I completed the front end developement portion with it's basic and now started with the backend development portion.
-I preferred to learn data structures in Java language, for me java is quite easy to do so I started with it's basic and still continuing with java programming.
-Recently I learned about R programming that focus on analysing the data in statistical form and graphical representation that calculates the data smoothly and correctly.
+<h1 align="center">Hi 👋, I'm Smriti jha</h1>
+<h3 align="center">A Front End Developer</h3>
+<img align="right" alt="Coding" width="400"  src ="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-![image](https://github.com/Smriti093/Smriti093/assets/132837062/33295290-1b6e-45bb-82ac-7b01ed169fba)  ![image](https://github.com/Smriti093/Smriti093/assets/132837062/9fdd3805-8606-46e7-8dc8-3e96d285651e)
-![image](https://github.com/Smriti093/Smriti093/assets/132837062/370ab817-5684-4a9c-8c41-9ca186c6ba23)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smriti093&label=Profile%20views&color=0e75b6&style=flat" alt="smriti093" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smriti093" alt="smriti093" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Backend Development**
+
+- 📫 How to reach me **jhasmriti995@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/smriti-jha-a0351722b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smriti-jha-a0351722b" height="30" width="40" /></a>
+<a href="https://fb.com/smriti jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smriti jha" height="30" width="40" /></a>
+<a href="https://instagram.com/smritijha_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smritijha_9" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smriti093&" alt="smriti093" /></p>
 
 
 
