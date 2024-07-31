@@ -17,7 +17,7 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jhssmriti995?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Smritijha?theme=dark)
 
  
 
